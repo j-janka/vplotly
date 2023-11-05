@@ -11,3 +11,4 @@
 ## v0.0.3 (05/11/2023)
 
 - Adjusted documentation.
+- Added dependency `vstats >= 0.0.3`
