@@ -1,4 +1,4 @@
-"""A small package for plotting based on Plotly.
+"""A small Python package for plotting based on Plotly.
 This package is accompanying the package `vstats`.
 """
 from importlib.metadata import version
