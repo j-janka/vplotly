@@ -12,3 +12,7 @@
 
 - Adjusted documentation.
 - Added dependency `vstats >= 0.0.3`
+
+## v0.0.4 (12/11/2023)
+
+- Published documentation on readthedocs.org.

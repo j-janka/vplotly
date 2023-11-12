@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vplotly"
-version = "0.0.3"
+version = "0.0.4"
 description = "A small package for plotting based on plotly. This package is accompanying the package vstats."
 authors = ["J. Janka"]
 license = "MIT"
